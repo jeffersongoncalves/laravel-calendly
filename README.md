@@ -1,6 +1,6 @@
 <div class="filament-hidden">
 
-![Laravel Calendly](https://raw.githubusercontent.com/jeffersongoncalves/laravel-calendly/master/art/jeffersongoncalves-laravel-calendly.png)
+![Laravel Calendly](https://raw.githubusercontent.com/jeffersongoncalves/laravel-calendly/main/art/jeffersongoncalves-laravel-calendly.png)
 
 </div>
 
